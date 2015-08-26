@@ -22,6 +22,11 @@ In order to install the prerequisites, run cpan <module_name> (as mentioned belo
 
 perl TwitterAPI_Web.pl daemon
 
+**To try on public server, go to:**
+
+http://54.201.18.204/ (hosted on AWS)
+
+
 
 #**API DOCUMENTATION**
 
